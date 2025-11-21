@@ -350,3 +350,5 @@ The status is based on the IEEE AIS standards list. (IEEE Standards Association)
 For “joint with ISO/IEC”, I marked Yes only when IEEE explicitly lists an ISO/IEC-joint international standard(e.g., IEEE/ISO/IEC 24765 vocabulary, IEEE/ISO/IEC 24774 life-cycle, and IEEE/ISO 11073). These come from the IEEE AIS list. (IEEE Standards Association) https://standards.ieee.org/initiatives/autonomous-intelligence-systems/standards/
 There may be more AI-related IEEE standards and projects beyond this list; I selected ones that are especially relevant to AI ethics, governance, explainability, systems, procurement, etc.
 If you like, I can generate a full CSV of all IEEE AI / Autonomous & Intelligent Systems standards and projects(including ~ 70+ items) with status and joint-ISO flags. Do you want me to do that?
+### Reference
+https://zenn.dev/kaizen_nagoya/articles/c4800496c78ebf
