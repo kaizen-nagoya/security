@@ -1,4 +1,4 @@
-# Projects & Standards
+# Projects & Standards about AI
 IEEE 1232™-2010 – IEEE Standard for Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)
 The purpose of AI-ESTATE is to standardize interfaces for functional elements of an intelligent diagnostic reasoner and representations of diagnostic knowledge and data for use by such diagnostic reasoners.
 IEEE 1232.3™-2014 – IEEE Guide for the Use of Artificial Intelligence Exchange and Service Tie to All Test Environments (AI-ESTATE)
